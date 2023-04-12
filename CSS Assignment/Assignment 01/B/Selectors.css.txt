@@ -1,0 +1,17 @@
+h1, h2, h3, h4, h5, h6 {
+  color: red;
+}
+
+p {
+  color: green;
+}
+
+
+p.important {
+  font-size: 18px;
+}
+
+
+#intro {
+  font-weight: bold;
+}

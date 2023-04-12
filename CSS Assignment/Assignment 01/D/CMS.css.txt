@@ -1,0 +1,13 @@
+.container h1, .container h2, .container h3, .container h4, .container h5, .container h6, .container p {
+  font-family: Arial, sans-serif;
+}
+
+
+.container#header h1, .container#header h2, .container#header h3, .container#header h4, .container#header h5, .container#header h6 {
+  font-size: 28px;
+}
+
+
+.container#header h1, .container#header h2, .container#header h3, .container#header h4, .container#header h5, .container#header h6 {
+  font-size: 28px;
+}
